@@ -2,4 +2,5 @@
 /* CSS Document */
 h1{color: rgba(236,53,56,1.00)
 } 
-.firstHeader{color: crimson}
+#mainHeader{font-size: 5em}
+.seconHeader{color: blue}
